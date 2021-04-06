@@ -1,0 +1,18 @@
+# ninja log v5
+0	95	1617493072	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/src/runtime/include/dart_api_dl.c.o	cd050494abb734b1
+2	123	1617493072	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	49b48febff36afe5
+123	171	1617493072	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+1	73	1617493635	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+2	89	1617498415	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+2	138	1617650445	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	49b48febff36afe5
+138	222	1617650445	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+1	108	1617667570	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	49b48febff36afe5
+108	254	1617667570	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+1	120	1617667881	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	49b48febff36afe5
+120	217	1617667881	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+1	103	1617668032	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	49b48febff36afe5
+103	177	1617668032	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+0	125	1617676096	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	49b48febff36afe5
+125	221	1617676096	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127
+1	121	1617687922	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	49b48febff36afe5
+121	214	1617687922	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86_64/libexample_lib.so	b3ebe00ed1708127

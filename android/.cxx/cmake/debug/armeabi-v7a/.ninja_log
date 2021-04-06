@@ -1,0 +1,18 @@
+# ninja log v5
+0	207	1617493071	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/src/runtime/include/dart_api_dl.c.o	75d973046c1e1882
+2	226	1617493071	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	c053064663a3a643
+226	283	1617493071	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+1	632	1617493635	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+7	411	1617498415	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+1	354	1617650444	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	c053064663a3a643
+354	490	1617650444	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+12	380	1617667569	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	c053064663a3a643
+380	474	1617667569	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+1	508	1617667881	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	c053064663a3a643
+508	621	1617667881	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+1	381	1617668031	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	c053064663a3a643
+381	470	1617668031	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+0	377	1617676095	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	c053064663a3a643
+377	531	1617676096	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68
+2	1573	1617687921	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	c053064663a3a643
+1573	1789	1617687921	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so	a0422ba01ea23d68

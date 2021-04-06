@@ -1,0 +1,18 @@
+# ninja log v5
+0	96	1617493071	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/src/runtime/include/dart_api_dl.c.o	59165c2610ad158d
+2	125	1617493071	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	87c65faaed7dd0f3
+125	181	1617493071	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+0	116	1617493635	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+1	112	1617498415	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+3	139	1617650444	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	87c65faaed7dd0f3
+140	223	1617650444	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+2	90	1617667569	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	87c65faaed7dd0f3
+91	145	1617667570	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+1	138	1617667881	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	87c65faaed7dd0f3
+139	253	1617667881	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+0	118	1617668031	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	87c65faaed7dd0f3
+120	256	1617668031	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+1	173	1617676096	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	87c65faaed7dd0f3
+173	257	1617676096	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc
+2	134	1617687921	CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o	87c65faaed7dd0f3
+134	219	1617687921	/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/arm64-v8a/libexample_lib.so	8527b523972bf1cc

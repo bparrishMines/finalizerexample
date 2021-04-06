@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/x86",
+  "command": "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang --target=i686-none-linux-android16 --gcc-toolchain=/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dexample_lib_EXPORTS -I../../../../../third_party/dart-sdk/src/runtime  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/src/runtime/include/dart_api_dl.c.o   -c /Users/bmparr/Work/finalizerexample/third_party/dart-sdk/src/runtime/include/dart_api_dl.c",
+  "file": "/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/src/runtime/include/dart_api_dl.c"
+},
+
+{
+  "directory": "/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/x86",
+  "command": "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++ --target=i686-none-linux-android16 --gcc-toolchain=/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dexample_lib_EXPORTS -I../../../../../third_party/dart-sdk/src/runtime  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/example_lib.dir/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp.o -c /Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp",
+  "file": "/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp"
+}
+]

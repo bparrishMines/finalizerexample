@@ -1,0 +1,52 @@
+{
+  "stringTable": {
+    "0": "/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi16 --gcc-toolchain=/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/sysroot -Dexample_lib_EXPORTS -I../../../../../third_party/dart-sdk/src/runtime -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -march=armv7-a -mthumb -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "/Users/bmparr/Work/finalizerexample/android/CMakeLists.txt",
+    "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/sources.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/bmparr/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/armeabi-v7a\" clean"
+  ],
+  "buildTargetsCommand": "/Users/bmparr/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/armeabi-v7a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "example_lib-Debug-armeabi-v7a": {
+      "buildCommand": "/Users/bmparr/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/armeabi-v7a\" example_lib",
+      "buildType": "debug",
+      "toolchain": "842158422",
+      "abi": "armeabi-v7a",
+      "artifactName": "example_lib",
+      "files": [
+        {
+          "src": "/Users/bmparr/Work/finalizerexample/ios/Classes/example_lib.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/src/runtime/include/dart_api_dl.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/armeabi-v7a/libexample_lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "842158422": {
+      "cCompilerExecutable": "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+      "cppCompilerExecutable": "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

@@ -1,0 +1,7 @@
+Executable : /Users/bmparr/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/x86
+example_lib
+jvmArgs : 
+

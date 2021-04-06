@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "/Users/bmparr/Work/finalizerexample/android/CMakeLists.txt",
+    "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/build/cmake/android.toolchain.cmake",
+    "/Users/bmparr/Library/Android/sdk/ndk/21.1.6352462/build/cmake/platforms.cmake",
+    "/Users/bmparr/Work/finalizerexample/third_party/dart-sdk/sources.cmake"
+  ],
+  "cleanCommands": [
+    "/Users/bmparr/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/x86\" clean"
+  ],
+  "buildTargetsCommand": "/Users/bmparr/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja  -C \"/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "example_lib-Debug-x86": {
+      "artifactName": "example_lib",
+      "buildCommand": "/Users/bmparr/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja -C \"/Users/bmparr/Work/finalizerexample/android/.cxx/cmake/debug/x86\" example_lib",
+      "abi": "x86",
+      "output": "/Users/bmparr/Work/finalizerexample/example/build/finalizerexample/intermediates/cmake/debug/obj/x86/libexample_lib.so",
+      "runtimeFiles": []
+    }
+  }
+}
