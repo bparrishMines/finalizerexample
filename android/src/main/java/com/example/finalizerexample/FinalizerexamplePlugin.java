@@ -16,8 +16,6 @@ public class FinalizerexamplePlugin implements FlutterPlugin, MethodCallHandler 
     initializeLib(MyClass.class);
   }
 
-  private final MyClass myClass = new MyClass();
-
   public static native void initializeLib(Class clazz);
 
   /// The MethodChannel that will the communication between Flutter and native Android
@@ -44,6 +42,5 @@ public class FinalizerexamplePlugin implements FlutterPlugin, MethodCallHandler 
   @Override
   public void onDetachedFromEngine(@NonNull FlutterPluginBinding binding) {
     channel.setMethodCallHandler(null);
-    myClass.printDisposeMessage();
   }
 }
